@@ -1,5 +1,3 @@
-# Moringa_Data_Science_Core_W4_Independent_Project_2021_01_STEPHEN_GICHONGE_Python_Notebook
-
 # Data Science Core Independent Project Week 4
 
 ## __Hypothesis Testing on Autolib (Electric Car-Sharing) Dataset__ ##
