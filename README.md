@@ -28,7 +28,7 @@ The given dataset in this analysis consisted of observations over nine days on e
 
 
 ## _Motivation_ ##
-The project goal is to check a hypothesis that on weekdays in France a certain postal code had more or less usage compared to the other.
+The project goal is to check a hypothesis that on weekdays in France for two randomly selected Postal Codes whether the mean number of blue cars taken is different.
 
 ## _Authors and Acknowledgment_ ##
 sgich,
