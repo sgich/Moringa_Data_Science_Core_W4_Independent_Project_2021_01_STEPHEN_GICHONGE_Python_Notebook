@@ -5,8 +5,8 @@
 
 ## _Description_ ##
 
-The proliferation of energy efficient and/or clean sources of energy has driven manufacturers to respond to customer and environmental demands as climate change is ever becoming a threat to humanity and it's habitat. 
-In response to that, there has been substantial growth in the electric car industry and an unforseen subsector of electric car-sharing. 
+The proliferation of energy efficient and/or clean sources of energy has driven manufacturers to respond to customer and environmental demands as climate change is ever becoming a threat to humanity and its habitat. 
+In response to that, there has been substantial growth in the electric car industry and an unforeseen subsector of electric car-sharing. 
 The given dataset in this analysis consisted of observations over nine days on electric car (bluecar) ride-sharing for different Postal Codes in Paris, France. Analysis was carried out in the form of a Hypothesis test on two randomly selected Postal Codes in order to understand usage over time.
 
 
